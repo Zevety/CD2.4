@@ -13,8 +13,9 @@ expo install react-native-gesture-handler react-native-reanimated react-native-s
 ## Дополнительные задания
 Добавьте Navigation Drawer.
 ## Готовая работа: 
-<img src = "https://user-images.githubusercontent.com/70855182/157127089-d2478476-7adf-4042-aed4-752e0e85162b.gif" width="270" height="600" />
 
-<img src = "https://user-images.githubusercontent.com/70855182/157127330-74eb666f-6a98-4221-b3b3-89925eafd9a3.png" width="270" height="600" /> <img src = "https://user-images.githubusercontent.com/70855182/157127375-ee6b70e1-84de-4093-90ef-f3e1dbce2ba3.png" width="270" height="600" />
+![Анимация](https://user-images.githubusercontent.com/90498783/163675306-29c7eb89-8262-4ef4-88e2-83baa2247543.gif)
+
+
 
 ![image](https://user-images.githubusercontent.com/70855182/157259518-3d297b16-1ed5-4b63-9709-a6a95ce03290.png)
